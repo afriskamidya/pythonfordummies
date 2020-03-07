@@ -8,6 +8,7 @@ def pengurangan(a,b):
 
 def perkalian(a,b):
 	#isi fungsi perkalian diletakkan di variable total 
+    perkalian = a*b
 	return total
 
 def pembagian(a,b):
